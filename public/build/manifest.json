@@ -1,0 +1,22 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-6d8QopiL.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/custom.css": {
+    "file": "assets/custom-T8Eo7opa.css",
+    "src": "resources/css/custom.css",
+    "isEntry": true
+  },
+  "resources/css/fonts/hilmar.ttf": {
+    "file": "assets/hilmar-GvhOpNho.ttf",
+    "src": "resources/css/fonts/hilmar.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DkDdL2UM.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
